@@ -6,9 +6,7 @@ import ScanScreen from "./screens/ScanScreen";
 export default class App extends React.Component {
   render() {
   return (
-    <View>
       <ScanScreen/>
-    </View>
   );
   }
 }
